@@ -1,2 +1,4 @@
 # resource
-resources for develop: images
+resource for develop apps
+
+image resources
